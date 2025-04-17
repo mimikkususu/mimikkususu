@@ -14,7 +14,7 @@
 | :----: | :----: |
 |[GCI2024_Summer]()  | GCI2024_Summer                                                    |
 |[directory](https://github.com/HaraYone/directory)             | Directory Management App　　　　　                                | 
-|[TelcoForecastingModel](https://github.com/mimikkusu/TelcoForecastingModel)| Business proposals to telecommunications carriers     | 
+|[TelcoForecastingModel](https://github.com/mimikkususu/TelcoForecastingModel)| Business proposals to telecommunications carriers     | 
 |[TimeWise](https://github.com/TimeWiseProject/TimeWise)        | Bus information app for Sunmoon University(on working)            |
 |[weather application ](https://github.com/mimikkususu/weather_app)        | you can know wheather information of japan when using this app|
 
