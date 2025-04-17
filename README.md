@@ -12,7 +12,7 @@
 ### project
 |`project `|`summary` |
 | :----: | :----: |
-|[GCI2024_Summer](https://github.com/mimikkusu/GCI2024_summer)  | GCI2024_Summer                                                    |
+|[GCI2024_Summer]()  | GCI2024_Summer                                                    |
 |[directory](https://github.com/HaraYone/directory)             | Directory Management App　　　　　                                | 
 |[TelcoForecastingModel](https://github.com/mimikkusu/TelcoForecastingModel)| Business proposals to telecommunications carriers     | 
 |[TimeWise](https://github.com/TimeWiseProject/TimeWise)        | Bus information app for Sunmoon University(on working)            |
