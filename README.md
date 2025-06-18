@@ -12,6 +12,7 @@
 ### project
 |`project `|`summary` |
 | :----: | :----: |
+| [atCoder](https://github.com/mimikkususu/addCoder)  | my answer of atCoder  |
 |[GCI2024_Summer]()  | 非公開                                                |
 |[directory](https://github.com/HaraYone/directory)             | Directory Management App　　　　　                                | 
 |[TelcoForecastingModel](https://github.com/mimikkususu/TelcoForecastingModel)| Business proposals to telecommunications carriers     | 
