@@ -12,6 +12,7 @@
 ### project
 |`project `|`summary` |
 | :----: | :----: |
+| [portfolio](https://github.com/mimikkususu/my-portfolio)  | this is harashima mitsuhiro's portfolio |
 | [atCoder](https://github.com/mimikkususu/addCoder)  | my answer of atCoder  |
 |[GCI2024_Summer]()  | 非公開                                                |
 |[directory](https://github.com/HaraYone/directory)             | Directory Management App　　　　　                                | 
